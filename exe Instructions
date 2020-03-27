@@ -4,6 +4,9 @@
 <h2> When trying to run the exe file, you may run into some problems because the windows defender smartscreen blocks it.
 <h3> To fix this, you need to lower security settings on your computer, which can be dangerous.'
 <h3> I would tell  you all the steps, but just look up "how to disable windows defender smartscreen" on google to save me some time.
-<h3> an easier way you can also do this is go to the exe file, right click on it, click properties, click unblock, click apply, click ok. </h3>
+<h3> an easier way you can also do this is go to the exe file, right click on it, click properties, click unblock, click apply, click ok.
+this will unblock the .exe file but if it still doesnt work, you may have to manually make the .py file that is also in 
+this repository a .exe file, which is long and complicated, but there are some good youtube videos and wikihow tutorials 
+on how to do it.</h3>
 </body>
 </html>
