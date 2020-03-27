@@ -1,0 +1,27 @@
+When running the virus, only run the shortcut with the fancy icon for it.
+If you want to run the non shortcut version, it is in the folder named "non shortcut virus (not as good)".  It is not as good because
+it runs the program weirdly.  
+
+To stop the program, while it is running, hover your cursor over the icon of the virus in the taskbar.  This will open its window, go to the 
+top right corner of that window and click on the X button.  This will stop the program.
+If you do not stop the virus in time, it may slow down your computer to the point where it is unusable, which you do not want, so try to stop it 
+in a reasonable amount of time.
+
+
+
+Also, the page it brings up rappidly is a meme page thing where it shows that you have a virus and you have 60 minutes to pay for it to stop.
+THIS IS FAKE.  It is just a meme so please, do not get scared.
+
+Thank you for trying my program!
+
+
+
+
+
+
+
+
+                                                                - dasurfingninja
+
+
+
