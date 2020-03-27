@@ -1,0 +1,6 @@
+# When trying to run the exe file, windows blocks it with their firewall.
+### To fix this you have to stop windows firewall, so DO THIS AT YOUR OWN RISK. 
+### If you do decide to, make sure you START UP WINDOWS FIREWALL AGAIN after you are done.
+###If not you are easily able to be hacked.
+### To stop windows firewall, go to the control panel, go to system and security, and then to Windows Defender Firewall
+### Then there you should see a way to disable the firewall, and my exe file should work.
